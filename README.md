@@ -43,7 +43,7 @@ O modelo contempla diferentes dimensões do futebol, permitindo análises ricas 
 O modelo ER define as principais entidades e relacionamentos, como:  
 **Patrocina, Assina, Possui, Realiza, Rivaliza com, Alia com, Torce para, Campeão de**.  
 
-📄 Confira o diagrama completo em [`VERSAO3.drawio.pdf`](VERSAO3.drawio.pdf).  
+📄 Confira o diagrama completo em [`DiagramaER.pdf`](DiagramaER.pdf).  
 
 ---
 
@@ -60,7 +60,7 @@ O **ArenaDB** serve como base para:
 
 ## 🚀 Tecnologias
 
-- Banco de dados: *(ex: PostgreSQL / MySQL / SQLite — escolha a sua implementação)*  
+- Banco de dados: *PostgreSQL*  
 - Linguagem de modelagem: **SQL / ER**  
 - Ferramenta de diagramas: **Draw.io**  
 
